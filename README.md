@@ -15,7 +15,7 @@ Coding is Love, Love is Coding....
 * ⚡  I also have a Master's Degree in CS, but don't tell anyone
 
 <a href="https://www.x.com/nomadic_coders" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/nomadic_coders?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/nomadic_coders?logo=twitter&style=for-the-badge&color=000000&labelColor=1c1917"
 /></a>
 
 ### Skills
@@ -36,4 +36,4 @@ src="https://img.shields.io/twitter/follow/nomadic_coders?logo=twitter&style=for
 
 <a href="http://www.github.com/abhay-gits"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-gits&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/abhay-gits" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-gits&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/abhay-gits" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-gits&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
