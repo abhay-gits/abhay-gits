@@ -1,7 +1,7 @@
 Hi 👋 My name is Abhay
 ======================
 
-Web Devloper
+Web Developer
 ------------
 
 Coding is Love, Love is Coding....
