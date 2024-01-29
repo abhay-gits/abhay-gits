@@ -14,7 +14,7 @@ Coding is Love, Love is Coding....
 * 🤝  I'm open to collaborating on JavaScript Projects
 * ⚡  I also have a Master's Degree in CS, but don't tell anyone
 
-<a href="https://www.x.com/nomadic_coders" target="_blank" rel="noreferrer"><img
+<a href="https://www.x.com/nomadic_coder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nomadic_coders?logo=twitter&style=for-the-badge&color=000000&labelColor=1c1917"
 /></a>
 
