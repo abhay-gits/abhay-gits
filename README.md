@@ -4,15 +4,13 @@ Hi 👋 My name is Abhay
 Web Developer
 ------------
 
-Coding is Love, Love is Coding....
+Student || Web Developer 
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyWebsite](https://abhaykuk.vercel.app/)
 * ✉️  You can contact me at [ranaabhay254@gmail.com](mailto:ranaabhay254@gmail.com)
 * 🚀  I'm currently working on [MyProject](http://github.com/abhay-gits/Coders-World)
-* 🧠  I'm learning Node.js and React
-* 🤝  I'm open to collaborating on JavaScript Projects
-* ⚡  I also have a Master's Degree in CS, but don't tell anyone
+* 🧠  I'm learning React and Node.js 
 
 <a href="https://www.x.com/nomadic_coderz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nomadic_coderz?logo=twitter&style=for-the-badge&color=000000&labelColor=1c1917"
