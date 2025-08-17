@@ -11,10 +11,6 @@ Student || Web Developer
 * ✉️  You can contact me at [ranaabhay254@gmail.com](mailto:ranaabhay254@gmail.com)
 * 🚀  I'm currently working on [MyProject](http://github.com/abhay-gits/musix)
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/abhay-gits" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-
 ### Badges
 
 <b>My GitHub Stats</b>
